@@ -1,6 +1,6 @@
 # DL-Midterm-Diego-Tomas
 
-#Outline:
+# Outline:
 
 * Provide 3 noteboks plus weights files:
 

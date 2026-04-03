@@ -9,6 +9,7 @@
 4. DataClean.ipynb: Data exploratory analysis and preprocessing Notebok which explores the intricate details of the dataset. Provided here to detail work done that was not in the original submission notebook.
 
 How To Recreate Results:
+
 The suggested method would be to open the notebook titled DL_Diego&Tomas_FinalSubmission.ipynb (either select the link below to open it directly in colab or download it from the repository). All code is set to be the exact same as the code that produced our best submission in the kaggle competition. You can simply start a run time and select run all (G4 GPU suggested).
 
 Alternatively, you can use the notebook we provided titled Inference_Only.ipynb. If you choose that there is a couple of extra steps. You must download the model state (linked below), and save it to your MyDrive folder in google drive. You must then set the varibale titled "MODEL_PATH" to be equal to the path string to the model weights in 

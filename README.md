@@ -4,13 +4,15 @@
 
 * Provide 3 noteboks plus weights files:
 
-1. Full Notebook which includes dataset cleaning, training, and inferance
-2. Inferance Notebook which just need weight provided to be loaded in and run
-3. Intensive data exploratory analysis Notebok which explores the intricate details of the dataset
+1. DL_Diego&Tomas_FinalSubmission.ipynb: Full Notebook which includes dataset cleaning, training, and inferance. Suggested to view the full scope of our model finetuning process. (linked in the readme to open directly in google colab)
+3. Inference_Only.ipynb: Inferance Notebook which just need weight provided to be loaded in and run. Provided here to display how we ran model states from previous run times.
+4. DataClean.ipynb: Data exploratory analysis and preprocessing Notebok which explores the intricate details of the dataset. Provided here to detail work done that was not in the original submission notebook.
 
-How To Recreate Result:
+How To Recreate Results:
+The suggested method would be to open the notebook titled DL_Diego&Tomas_FinalSubmission.ipynb (either select the link below to open it directly in colab or download it from the repository). All code is set to be the exact same as the code that produced our best submission in the kaggle competition. You can simply start a run time and select run all (G4 GPU suggested).
 
-
+Alternatively, you can use the notebook we provided titled Inferenc_Only.ipynb. If you choose that there is a couple of extra steps. You must download the model space (linked below), and save it to your MyDrive folder in google drive. You must then set the varibale titled "MODEL_PATH" to be equal to the path string to the model weights in 
+your MyDrive. Lastly you can start a runtime and select run all (same as the prior method).
 
 
 Note:

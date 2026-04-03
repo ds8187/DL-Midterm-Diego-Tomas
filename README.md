@@ -5,7 +5,7 @@
 * Provide 3 Notebooks (final submission also linked below along with model weights):
 
 1. DL_Diego&Tomas_FinalSubmission.ipynb: Full Notebook which includes dataset cleaning, training, and inferance. Suggested to view the full scope of our model finetuning process. (linked in the readme to open directly in google colab)
-3. Inference_Only.ipynb: Inferance Notebook which just need weight provided to be loaded in and run. Provided here to display how we ran inference model states from previous run times.
+3. Inference_Only.ipynb: Inferance Notebook which just need weights provided (linked below). Provided here to display how we ran inference model states from previous run times.
 4. DataClean.ipynb: Data exploratory analysis and preprocessing Notebok which explores the intricate details of the dataset. Provided here to detail work done that was not in the original submission notebook.
 
 How To Recreate Results:
